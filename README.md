@@ -15,7 +15,7 @@
   
 
 
-<h2> Certifications </h2>
+<h2>📄 Certifications </h2>
 
 - [PCEP- Certified Entry-level Python Programmer]
 - [Excel for Intermediate level]
