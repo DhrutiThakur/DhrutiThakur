@@ -1,4 +1,4 @@
-<h1>Hi, I'm Dhruti! <br/> <a href="https://www.linkedin.com/in/joshmadakor/">Data analysis Enthusiast</a>
+<h1>Hi, I'm Dhruti! <br/> <a href="https://www.linkedin.com/in/dhruti-thakur/">Data analysis Enthusiast</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
