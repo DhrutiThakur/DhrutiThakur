@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Python</b>
-  - [Practice 1](https://github.com/DhrutiThakur/Python-P1)
+  - [Exploratory Data Analysis](https://github.com/DhrutiThakur/Python-P1)
 
   - [Practice 2](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
 - <b>SQL</b>
