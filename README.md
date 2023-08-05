@@ -5,13 +5,12 @@
 - <b>Python</b>
   - [Exploratory Data Analysis](https://github.com/DhrutiThakur/Python-P1)
 
-  - [Practice 2](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
-- <b>SQL</b>
-  - [Practice 3](https://github.com/joshmadakor1/Sentinel-Lab)
+
+
  
   
-- <b>PHP</b>
-  - [Practice 4](https://github.com/joshmadakor1/EncrypterPOC)
+- <b>Power Bi</b>
+  - [Sales Dashboard](https://github.com/joshmadakor1/EncrypterPOC)
   
 
 
