@@ -10,7 +10,7 @@
  
   
 - <b>Power Bi</b>
-  - [Sales Dashboard](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Sales Dashboard]
   
 
 
