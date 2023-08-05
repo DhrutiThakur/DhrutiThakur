@@ -10,7 +10,7 @@
  
   
 - <b>Power Bi</b>
-  - [Sales Dashboard]
+  - [Sales Dashboard](https://github.com/DhrutiThakur/Power-BI) 
   
 
 
