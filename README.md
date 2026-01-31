@@ -1,6 +1,6 @@
 <h1>Hi, I'm Dhruti! <br/> <a href="https://www.linkedin.com/in/dhruti-thakur/">Data analysis Enthusiast</a>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻Analytical/Reporting Projects:</h2>
 
 - <b>Python</b>
   - [Exploratory Data Analysis](https://github.com/DhrutiThakur/Python-P1)
@@ -28,7 +28,7 @@
 
 
 
-[linkedin]: https://www.linkedin.com/in/dhruti-thakur
+[linkedin]: (https://www.linkedin.com/in/dhruti-thakur)
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
