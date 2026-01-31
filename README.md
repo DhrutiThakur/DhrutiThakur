@@ -17,8 +17,12 @@
 
 <h2>📄 Certifications </h2>
 
-- [PCEP- Certified Entry-level Python Programmer]
-- [Excel for Intermediate level]
+
+•	Data Analysis with Python – IBM (2023) 
+•	Certified Python Programmer -Python Institute (2022)
+•	Microsoft Certified: Power BI Data Analyst Associate (PL-300) – In Progress
+•	Lean Six Sigma 
+
 
 
 <h2> 🤳 Connect with me:</h2>
